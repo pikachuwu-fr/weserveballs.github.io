@@ -6,13 +6,14 @@ html {
 
 #categories{
     background-color: rgb(251, 200, 90);
-    font-family: cursive;
 }
 
 #mainpage{
     text-align: center;
     color: white;
-    font-family: cursive;
 }
 
+*{
+    font-family: Andale Mono, monospace;
+}
 
