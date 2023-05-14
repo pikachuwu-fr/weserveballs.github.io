@@ -1,1 +1,15 @@
+html {
+    height: 100%;
+    width: 100%;
+}
 
+#categories{
+    background-color: white;
+    font-family: fantasy;
+}
+
+#mainpage{
+    text-align: center;
+    background-color: white;
+    font-family: cursive;
+}
