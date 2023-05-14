@@ -1,6 +1,7 @@
 html {
     height: 100%;
     width: 100%;
+    background-color:rgb(103, 103, 103);
 }
 
 #categories{
@@ -11,7 +12,6 @@ html {
 #mainpage{
     text-align: center;
     color: white;
-    background-color:rgb(103, 103, 103);
     font-family: cursive;
 }
 
