@@ -1,16 +1,44 @@
 html {
     height: 100%;
     width: 100%;
-    background-color:rgb(103, 103, 103);
 }
 
 #categories{
     background-color: rgb(251, 200, 90);
 }
 
+#mainpage{
+    text-align: center;
+    color:white;
+    background-color:rgb(103, 103, 103);
+}
+
 #ctitle{
     text-align: center;
-    color: white;
+    background-color: rgb(45, 45, 45);
+    color:white;
+}
+
+#etiquette{
+    text-align: center;
+    background-color: white;
+    color: rgb(0, 0, 0);
+}
+
+#format{
+    text-align: center;
+    background-color:white;
+    color: rgb(0, 0, 0);
+}
+
+#technique{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+#playstyle{
+    text-align: center;
+    color: rgb(0, 0, 0);
 }
 
 *{
