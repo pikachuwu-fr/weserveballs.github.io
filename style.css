@@ -4,12 +4,15 @@ html {
 }
 
 #categories{
-    background-color: white;
-    font-family: fantasy;
+    background-color: rgb(251, 200, 90);
+    font-family: cursive;
 }
 
 #mainpage{
     text-align: center;
-    background-color: white;
+    color: white;
+    background-color:black;
     font-family: cursive;
 }
+
+
